@@ -23,3 +23,4 @@ and so on until the end of the table below.
 # Observations
 
 A message
+separated at the method division of concerns
