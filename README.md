@@ -5,7 +5,7 @@ The company Acme Corp wants their system to synchronize the Opportunity fields S
 Status field changes (from UI or API). The status are progressive starting on Quote and move then to Credit Check
 and so on until the end of the table below.
 
-STATUS                STAGE             PROBABILITY
+STATUS................STAGE             PROBABILITY
 Quote                 Lead              0
 Credit Check          Qualify           30
 Document Received     Propose           60
