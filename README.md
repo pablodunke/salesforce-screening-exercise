@@ -19,3 +19,7 @@ and so on until the end of the table below.
 * Classes, Triggers and Unit Tests that were created to solve the problem;
 * Explanation of why/how the problem was solved that way;
 * Alternative solution for the problem (maybe using point and click)
+
+# Observations
+
+A message
