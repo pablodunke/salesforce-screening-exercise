@@ -10,11 +10,11 @@
 
 ### Explanation of why / how the problem was solved that way
 
-'''
+```
 I
 It was created to methods to handle 
 separated at the method division of concerns
-'''
+```
 
 ### Alternative solution for the problem (maybe using point and click)
 
