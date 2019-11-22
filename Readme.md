@@ -15,14 +15,12 @@ I created a class to handle the code of the trigger
 That make everything easier to manage
 
 I created two methods to manage the field updates, one to each field
-So is easier to update the code at the case of any kind of change the requirements
+So is easier to update the code at the case of any kind of change the at the requirements
 
-At here, the trigger is tested by the test class of the handler
+The trigger is tested by the test class of the handler
 
 I also created a class to manage the SOQL queries for the Opportunity
 It helps with reuse of code
-
-I'm available for any kind of questions about anything
 ```
 
 ### Alternative solution for the problem (maybe using point and click)
