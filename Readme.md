@@ -8,11 +8,12 @@
 * classes/OpportunityHandlerTest.cls
 * triggers/OpportunityTrigger.trigger
 
-### Explanation of why/how the problem was solved that way
+### Explanation of why / how the problem was solved that way
+
 
 separated at the method division of concerns
 
 ### Alternative solution for the problem (maybe using point and click)
 
-
-
+It can be done using 10 Workflow Rules, 5 to each field (Stage and Probability)  
+It also can be done using a Process Builder
