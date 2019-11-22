@@ -1,6 +1,6 @@
 # Solution
 
-## Classes, Triggers and Unit Tests that were created to solve the problem
+### Classes, Triggers and Unit Tests that were created to solve the problem
 
 * classes/OpportunityDAO.cls
 * classes/OpportunityDAOTest.cls
