@@ -15,5 +15,5 @@ separated at the method division of concerns
 
 ### Alternative solution for the problem (maybe using point and click)
 
-It can be done using 10 Workflow Rules, 5 to each field (Stage and Probability)  
-It also can be done using a Process Builder
+* It can be done using 10 Workflow Rules, 5 to each field (Stage and Probability)  
+* It also can be done using a Process Builder
