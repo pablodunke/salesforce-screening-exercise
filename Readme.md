@@ -11,9 +11,14 @@
 ### Explanation of why / how the problem was solved that way
 
 ```
-I
-It was created to methods to handle 
-separated at the method division of concerns
+I created a class to handle the code of the trigger
+That make everything easier to manage
+
+I created two methods to manage the field updates, one to each field
+So is easier to update the code at the case of any kind of change the requirements
+
+At here, the trigger is tested by the test class of the handler
+
 ```
 
 ### Alternative solution for the problem (maybe using point and click)
