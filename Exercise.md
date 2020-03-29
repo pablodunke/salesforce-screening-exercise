@@ -1,4 +1,4 @@
-## BDFS Salesforce Screening Exercise
+## Salesforce Screening Exercise
 
 ### Users Story
 
